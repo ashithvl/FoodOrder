@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodOrder</string>
+    <string name="add_food_item">Add Food Item</string>
+    <string name="view_open_orders">View Open Orders</string>
+    <string name="enter_food_item_name">Enter food item username</string>
+    <string name="enter_item_description">Enter item description</string>
+    <string name="add_item_to_menu">Add Item to Menu</string>
+    <string name="enter_item_price">Enter Item price</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="enter_your_email">Enter your Email</string>
+</resources>
